@@ -16,6 +16,8 @@ navigation:
    url: /index.html
  - title: Contact
    url: /contact
+ - title: Visit
+   url: /visit
 
 social:
    email: tony@gaigerbros.co.uk
