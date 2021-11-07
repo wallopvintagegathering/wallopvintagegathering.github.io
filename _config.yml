@@ -18,6 +18,8 @@ navigation:
    url: /contact
  - title: Visit
    url: /visit
+ - title: Exhibitors
+   url: /exhibit
 
 social:
    email: tony@gaigerbros.co.uk
